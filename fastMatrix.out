@@ -1,0 +1,26 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}
+\BOOKMARK [1][-]{section.2}{Version History}{}
+\BOOKMARK [1][-]{section.3}{Getting started}{}
+\BOOKMARK [2][-]{subsection.3.1}{Example: Working with files}{section.3}
+\BOOKMARK [2][-]{subsection.3.2}{Example: Benchmarking}{section.3}
+\BOOKMARK [2][-]{subsection.3.3}{Example: QR factorization using Gram Schmidt}{section.3}
+\BOOKMARK [1][-]{section.4}{Generating Matrices}{}
+\BOOKMARK [2][-]{subsection.4.1}{Creating types of matrices}{section.4}
+\BOOKMARK [1][-]{section.5}{Benchmarking}{}
+\BOOKMARK [1][-]{section.6}{Indexing}{}
+\BOOKMARK [1][-]{section.7}{Vector extraction}{}
+\BOOKMARK [1][-]{section.8}{Matrix extraction}{}
+\BOOKMARK [1][-]{section.9}{Factorization}{}
+\BOOKMARK [2][-]{subsection.9.1}{LU decomposition}{section.9}
+\BOOKMARK [2][-]{subsection.9.2}{QR Factorization}{section.9}
+\BOOKMARK [2][-]{subsection.9.3}{Orthogonalization}{section.9}
+\BOOKMARK [1][-]{section.10}{Comparison}{}
+\BOOKMARK [1][-]{section.11}{Properties of Matrices}{}
+\BOOKMARK [1][-]{section.12}{Output}{}
+\BOOKMARK [1][-]{section.13}{Scalar arithmetic}{}
+\BOOKMARK [1][-]{section.14}{Matrix arithmetic}{}
+\BOOKMARK [1][-]{section.15}{Transforms}{}
+\BOOKMARK [2][-]{subsection.15.1}{Discrete Fourier Transform}{section.15}
+\BOOKMARK [1][-]{section.16}{Performance}{}
+\BOOKMARK [2][-]{subsection.16.1}{LU factorization}{section.16}
+\BOOKMARK [2][-]{subsection.16.2}{QR factorization}{section.16}

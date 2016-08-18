@@ -1,8 +1,5 @@
-# Instructions #
+INSTRUCTIONS
 
-Please Read fastMatrix.pdf for details. Library does multiplication, transpose, compute inverse, DFT, FFT, QR factorization, LU decomposition, extract eigenvectors, etc. 
-
-# Compiling #
 All you have to do is compile the cpp files using g++ or any ansi standard compiler.
 
 example: 

@@ -1,0 +1,7 @@
+Performance of LU Decomposition w/o pivoting on nxn matrix, n vs time in sec 
+Results are averaged over 10 trials. Pentium M 1.6 Ghz
+64	0.015
+128	0.093		
+256	0.484
+512	2.734
+1024	21.36
